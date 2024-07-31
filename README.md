@@ -1,5 +1,7 @@
 ### Proyect_Tipleten_by_Lautaro
-¿Qué ofrece este proyecto?
+# link de la aplicacion web 
+https://proyect-tipleten-by-lautaro.onrender.com
+# ¿Qué ofrece este proyecto?
 Este proyecto No es un analisis profundo de los datos en cuestión ya que cuenta con otros objetivo que comentare mas adelante. Se realizaron algunos gráficos y se exploraron las herramientas que ofrece Streamlit, que era uno de los objetivos para este proyecto. Streamlit resultó ser fácil de usar y se integra bien con bibliotecas para la creación de gráficos como Plotly.
 
 # Dificultades
