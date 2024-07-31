@@ -1,6 +1,6 @@
 ### Proyect_Tipleten_by_Lautaro
 ¿Qué ofrece este proyecto?
-Este proyecto comenzó sin un análisis profundo de los datos en cuestión. Se realizaron algunos gráficos y se exploraron las herramientas que ofrece Streamlit. Streamlit resultó ser fácil de usar y se integra bien con bibliotecas para la creación de gráficos como Plotly.
+Este proyecto No es un analisis profundo de los datos en cuestión ya que cuenta con otros objetivo que comentare mas adelante. Se realizaron algunos gráficos y se exploraron las herramientas que ofrece Streamlit, que era uno de los objetivos para este proyecto. Streamlit resultó ser fácil de usar y se integra bien con bibliotecas para la creación de gráficos como Plotly.
 
 # Dificultades
 El verdadero reto del proyecto surgió con la creación del entorno virtual, lo que me hizo repasar y afianzar conocimientos sobre este tema. Comprendí la importancia del archivo requirements.txt. Al trabajar en Linux, crear el entorno virtual desde la terminal es sencillo, pero cuando se usa VS Code, es crucial asegurarse de que el entorno virtual esté configurado correctamente para todo el proyecto. Además, en Jupyter Notebook, el kernel también debe estar vinculado al entorno virtual creado, lo cual, aunque parece simple, puede pasar desapercibido y hacer que pierdas varios minutos solucionando problemas, como la falta de lectura de las librerías especificadas en el requirements.txt.
