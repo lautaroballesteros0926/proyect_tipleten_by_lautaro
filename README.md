@@ -14,3 +14,7 @@ El despliegue fue un desafío que me tomó varias horas resolver. El problema su
 
 # Cambios
 Como se mencionó en las secciones de dificultades y despliegue, el objetivo principal de este proyecto no era tanto realizar un análisis profundo de los datos, sino montar una aplicación web desde cero. Fue una experiencia muy entretenida. En el futuro, sería interesante hacer un análisis más exhaustivo, añadir más gráficos, texto y otros elementos para enriquecer la aplicación. Estos cambios se pueden considerar como próximos retos.
+
+# Comentario Para el revisor del proyecto 
+
+Para el revisor del proyecto de casualidad le envie el link incorrecto de mi repositorio. 
