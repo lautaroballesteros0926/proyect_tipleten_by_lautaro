@@ -18,3 +18,16 @@ Como se mencionó en las secciones de dificultades y despliegue, el objetivo pri
 # Comentario Para el revisor del proyecto 
 
 Para el revisor del proyecto de casualidad le envie el link incorrecto de mi repositorio. 
+
+# Pruebas del despliegue por si el link se cae o no esta activo 
+
+Para esto adjuntare dos imagenes una con la confirmacion de despliegue existoso y otra de la aplicaccion web en cuestion
+
+![Imagen de ejemplo](Imagen1.png)
+
+La aplicacion web: 
+
+![Imagen de ejemplo](imagen2.png)
+![Imagen de ejemplo](imagen3.png)
+![Imagen de ejemplo](Imagen4.png)
+
